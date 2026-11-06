@@ -1,4 +1,4 @@
-# pyMEA
+# Microelectrode-array (MEA) analyzer
 
 Microelectrode-array (MEA) analyzer for beat detection, spatial activation mapping, conduction velocity estimation, beat-amplitude tracking, and pacemaker translocation analysis.
 
